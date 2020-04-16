@@ -1,0 +1,12 @@
+{
+  "blog_categories": [
+    { "id": "technology", "title": "Technology", "blog_count": 25 },
+    { "id": "parenting", "title": "Parenting", "blog_count": 4 },
+    { "id": "economics", "title": "Economics", "blog_count": 11 },
+    { "id": "politics", "title": "Politics", "blog_count": 25 },
+    { "id": "photography", "title": "Photography", "blog_count": 15 },
+    { "id": "movies", "title": "Movies", "blog_count": 25 },
+    { "id": "food", "title": "Food", "blog_count": 25 },
+    { "id": "health", "title": "Health", "blog_count": 25 }
+  ]
+}
